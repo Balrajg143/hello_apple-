@@ -1,1 +1,6 @@
-# hello_apple-
+#!/bin/bash
+echo "hello balraj"
+
+
+
+
